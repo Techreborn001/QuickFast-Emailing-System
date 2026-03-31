@@ -1,6 +1,7 @@
 # QuickFast Automation System (v2.0) 🚀
 
-**Engineer:** Immanuel Mbugua
+**Engineer:** Immanuel Mbugua 
+
 **Stack:** Google Apps Script (JavaScript), AWS SNS, Google Workspace API  
 **Architecture:** Serverless, Event-Driven Hub-and-Spoke Model
 
